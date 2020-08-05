@@ -1,6 +1,7 @@
 require 'execjs'
 require 'react/source'
 require 'react/jsx/template'
+require 'react/jsx/processor'
 
 module React
   module JSX
